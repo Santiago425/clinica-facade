@@ -226,3 +226,5 @@ label { display: grid; gap: 0.3rem; font-weight: 600; font-size: 0.88rem; }
   .grid-2, .med-row { grid-template-columns: 1fr; }
   .table { display: block; overflow-x: auto; }
 }
+
+
