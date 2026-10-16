@@ -111,3 +111,5 @@ npm run dev
 ## Tecnologías
 
 Spring Boot 3 · Java 17 · React 18 · Vite · React Router · Railway · Vercel
+
+
