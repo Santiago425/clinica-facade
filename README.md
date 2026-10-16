@@ -9,13 +9,14 @@ Portal para pacientes de una clínica donde pueden registrarse, agendar citas, c
 | Integrante | GitHub |
 |---|---|
 | Santiago Campoverde | [@Santiago425](https://github.com/Santiago425) |
-| | [@Chindoy12](https://github.com/Chindoy12) |
+| Jaider Chindoy | [@Chindoy12](https://github.com/Chindoy12) |
 | | [@laurameza7](https://github.com/laurameza7) |
 
 ## Despliegue
 
-- **Frontend (Vercel):** _pendiente_
-- **Backend (Railway):** _pendiente_
+- **Frontend (Vercel):** https://clinica-facade.vercel.app
+- **Backend (Railway):** https://clinica-facade-production.up.railway.app
+- **Ejemplo de endpoint:** https://clinica-facade-production.up.railway.app/api/clinica/medicos?especialidad=CARDIOLOGY
 
 Usuario de prueba: documento `1085123456`, contraseña `demo123`.
 
