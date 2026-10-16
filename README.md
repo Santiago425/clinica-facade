@@ -10,7 +10,7 @@ Portal para pacientes de una clínica donde pueden registrarse, agendar citas, c
 |---|---|
 | Santiago Campoverde | [@Santiago425](https://github.com/Santiago425) |
 | Jaider Chindoy | [@Chindoy12](https://github.com/Chindoy12) |
-| | [@laurameza7](https://github.com/laurameza7) |
+|Laura Meza | [@laurameza7](https://github.com/laurameza7) |
 
 ## Despliegue
 
